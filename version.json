@@ -1,6 +1,6 @@
 {
   "version": "2.0.5",
-  "downloadUrl": "https://github.com/AhmedHaleem007/Zune_Tune/releases/download/v2.0.5/Zune.Tune-2.0.3.zip",
-  "fileName": "Zune Tune-2.0.3.zip",
+  "downloadUrl": "https://github.com/AhmedHaleem007/Zune_Tune/releases/download/v2.0.5/Zune.Tune-2.0.5.zip",
+  "fileName": "Zune Tune-2.0.5.zip",
   "changelog": "Installer stability improvements, startup crash logging, and safer Windows install defaults."
 }
