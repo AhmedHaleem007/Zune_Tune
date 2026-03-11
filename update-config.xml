@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Update size and checksums on every release -->
-<configuration timestamp="2026-03-11T19:42:06.311245400Z">
-    <base uri="https://github.com/AhmedHaleem007/Zune_Tune/releases/download/v2.0.9/"/>
+<configuration timestamp="2026-03-11T19:59:06.895839Z">
+    <base uri="https://github.com/AhmedHaleem007/Zune_Tune/releases/download/v2.0.10/"/>
     <properties>
-        <property key="version" value="2.0.9"/>
+        <property key="version" value="2.0.10"/>
     </properties>
     <files>
         <file path="${user.dir}/app/ZuneTune.jar"
               uri="ZuneTune.jar"
-              size="543228"
-              checksum="94b7b7ed"
-              sha256="d45977c92dcc9c8c6d0e1b1ffd3bab033c4d31b843581fd462235dfd28644723"/>
+              size="543222"
+              checksum="f5b83959"
+              sha256="553ece43570edf3612f0916d06a1b32c5bee3a1ec9016fc6e8229a2e336b18c4"/>
     </files>
 </configuration>
