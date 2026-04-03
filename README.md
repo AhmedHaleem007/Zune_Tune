@@ -1,10 +1,10 @@
-# VCM_ECU
+# ZTune
 
 Desktop ECU tuning/editor application built with Kotlin Multiplatform and Compose.
 
 ## What This Project Does
 
-`VCM_ECU` provides a desktop UI for loading ECU BIN files, inspecting DTC tables, and generating patched files through common tuning operations.
+`ZTune` provides a desktop UI for loading ECU BIN files, inspecting DTC tables, and generating patched files through common tuning operations.
 
 Current primary workflow supports:
 - `MEDG17.9.8` (Kia/Hyundai)
